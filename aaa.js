@@ -3,5 +3,5 @@ const a=()=>{
 }
 const bb=3;
 const b=()=>{
-return 3;
+return 10;
 }
